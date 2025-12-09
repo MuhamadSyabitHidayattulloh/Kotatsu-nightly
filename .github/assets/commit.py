@@ -5,8 +5,8 @@ time = datetime.now() - timedelta(days=1)
 time_format = time.isoformat() + 'Z'
 
 repos = [
-    {'owner': 'KotatsuApp', 'name': 'Kotatsu'},
-    {'owner': 'KotatsuApp', 'name': 'kotatsu-parsers'}
+    {'owner': 'MuhamadSyabitHidayattulloh', 'name': 'Kotatsu'},
+    {'owner': 'MuhamadSyabitHidayattulloh', 'name': 'kotatsu-parsers'}
 ]
 
 params = {
